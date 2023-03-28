@@ -1,5 +1,13 @@
-0x11. C - printf team project
-Group Project:
+##Printf Team Project
+The printf project is a collaroation between **Faith Apeh** and **Godwin Okpe**, **ALX Software Engineering** Students.
+
+_printf() is a function that performs formatted output conversion and print data. Its prototype is the following:
+
+	int _printf(const char *format, ...)
+
+Where **format** contains the string that is printed
+
+
 0. I'm not going anywhere. You can print that wherever you want to. I'm
 here and I'm
 a Spur for life
